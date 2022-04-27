@@ -20,8 +20,8 @@ The fully connected layers have a size of 4096 dimensions which will be used in 
 ## I3d Architecture
 The inflated convolution i.e. 3d convolution are performed on the 2D cnn model and after performing number of convolutions on the previous layer and also applying max pooling the results are concated and that result is called an inception module.
 The I3D Architecture gives a size of 1024 dimensions which will be used in the DNN model for calculating the anomaly score.\
-![1_Ab76Q3eRUOOuIX87hs-GZg](https://user-images.githubusercontent.com/65583643/165343725-d29f6e39-9b62-4f64-937b-418656c17396.png)
-![Approach](https://imgur.com/2Qj0lRe)
+![1_Ab76Q3eRUOOuIX87hs-GZg](https://user-images.githubusercontent.com/65583643/165343725-d29f6e39-9b62-4f64-937b-418656c17396.png)\
+![Imgur](https://imgur.com/2Qj0lRe)
 
 ## DNN Model
 
