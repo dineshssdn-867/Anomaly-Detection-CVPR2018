@@ -14,7 +14,9 @@ Single video is a bag if the instance of video contains the anomaly we label it 
 ## C3d Architecture
 The C3D model is given an input video segment of 16 frames (after downsampling to a fixed size which depends on dataset used) and the outputs a 4096-element vector.
 The fully connected layers have a size of 4096 dimensions which will be used in the DNN model for calculating the anomaly score\
-![Screenshot 2022-04-26 213236](https://user-images.githubusercontent.com/65583643/165343456-8c2f7475-0476-432e-b4c9-14121bdf21ed.jpg)
+![Screenshot 2022-04-26 213236](https://user-images.githubusercontent.com/65583643/165343456-8c2f7475-0476-432e-b4c9-14121bdf21ed.jpg)\
+![Another_approach](https://user-images.githubusercontent.com/60216881/165473316-5a959c80-8ab0-4062-945f-eb8df06f05ff.jpeg)
+
 
 
 ## I3d Architecture
