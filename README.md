@@ -16,12 +16,12 @@ The C3D model is given an input video segment of 16 frames (after downsampling t
 The fully connected layers have a size of 4096 dimensions which will be used in the DNN model for calculating the anomaly score\
 ![Screenshot 2022-04-26 213236](https://user-images.githubusercontent.com/65583643/165343456-8c2f7475-0476-432e-b4c9-14121bdf21ed.jpg)
 
+
 ## I3d Architecture
 The inflated convolution i.e. 3d convolution are performed on the 2D cnn model and after performing number of convolutions on the previous layer and also applying max pooling the results are concated and that result is called an inception module.
 The I3D Architecture gives a size of 1024 dimensions which will be used in the DNN model for calculating the anomaly score.\
-![1_Ab76Q3eRUOOuIX87hs-GZg](https://user-images.githubusercontent.com/65583643/165343725-d29f6e39-9b62-4f64-937b-418656c17396.png)\
-![1_Ab76Q3eRUOOuIX87hs-GZg](https://imgur.com/6oS9LNv)
-
+![1_Ab76Q3eRUOOuIX87hs-GZg](https://user-images.githubusercontent.com/65583643/165343725-d29f6e39-9b62-4f64-937b-418656c17396.png)
+![Approach](https://imgur.com/2Qj0lRe)
 
 ## DNN Model
 
