@@ -1,7 +1,7 @@
 
 # Anomaly Detection
 
-Anomaly detection, also called outlier detection, is the identification of unexpected events, observations, or items that differ significantly from the norm.
+Anomaly Detection System is defined as a real-time surveillance program designed to automatically detect and account for the signs of offensive or disruptive activities immediately.
 
 # Multiple Instance Learning
 
